@@ -155,8 +155,8 @@ ul li:hover ul{
 .inicio{
     width: 100%;
     height: 100vh;
-    background-image: url(../img/portada.jpg);
-    background-size: cover;
+    /* background-image: url(../img/portada.jpg);
+    background-size: cover; */
 }
 /* .contieneImagenFondo{
     width: 100%;
